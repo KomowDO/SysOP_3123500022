@@ -217,3 +217,4 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 - [VMware Fusion Download](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
 
 - [Video Tutorial](https://www.youtube.com/watch?v=hoRdh96O9wM)"# DownloadDebian-12" 
+"# DownloadDebian-12" 
