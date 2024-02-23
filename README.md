@@ -35,10 +35,10 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 1. Masuk ke link downloaad virtualbox dan klik download
 ![App Screenshot](img/install-vm/1.jpeg)
 
-2. pilih sesuai **Sistem Oprasi Device** anda,
+2. Pilih sesuai **Sistem Oprasi Device** anda,
 ![App Screenshot](img/install-vm/2.jpeg)
 
-3. buka **VirtualBox** anda, dan klik **yes**
+3. Buka **VirtualBox** anda, dan klik **yes**
 ![App Screenshot](img/install-vm/3.jpeg)
 
 4. klik **Next**
