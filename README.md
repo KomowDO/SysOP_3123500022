@@ -1,9 +1,34 @@
+<div align="center">
+  <h1 style="text-align: center;font-weight: bold">Praktikum 1<br>SysAdmin</h1>
+  <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
+</div>
+<br />
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
+  <h3 style="text-align: center;">Disusun Oleh : </h3>
+  <p style="text-align: center;">
+    <strong>Mochammad Fahril Rizal (3123500013)</strong><br>
+    <strong>Adrian Yoga Chrisarianto (3123500021)</strong><br>
+    <strong>Muhammad Arief Wicaksono Putra Santoso (3122500022)</strong>
+  </p>
 
-# About Debian 12
+<h3 style="text-align: center;line-height: 1.5">Politeknik Elektronika Negeri Surabaya<br>Departemen Teknik Informatika Dan Komputer<br>Program Studi Teknik Informatika<br>2023/2024</h3>
+  <hr><hr>
+</div>
 
+## Daftar Isi
+1. [Pendahuluan](#about-debian-12)
+1. [Soal 1](#1-sebutkan-proses-booting)
+2. [Soal 2](#2-bagaimana-cara-install-debian-12-di-virtual-machine)
+3. [Referensi](#referensi)
+
+# About OS Debian 12
+Sistem operasi (OS) adalah program yang, setelah pertama kali dimuat ke komputer melalui program boot, mengelola semua program aplikasi lain di komputer. Program aplikasi memanfaatkan sistem operasi dengan membuat permintaan layanan melalui antarmuka program aplikasi yang ditentukan ( API ). Selain itu, pengguna dapat berinteraksi langsung dengan sistem operasi melalui antarmuka pengguna, seperti antarmuka baris perintah (CLI) atau UI grafis (GUI). <br><br>
 Debian adalah sebuah sistem operasi berbasis Linux yang berisi perangkat lunak bebas dan sumber terbuka untuk komputer. Debian, yang dikembangkan oleh komunitas sukarelawan dari seluruh dunia, menekankan kebebasan perangkat lunak, kestabilan, dan keamanan. Sistem manajemen paket Debian, yang dikenal sebagai "dpkg" dan "APT", menawarkan berbagai paket perangkat lunak yang dapat diinstal dan dikelola.
 
-
+# SOAL
+### 1. Sebutkan proses booting
+**Jawab:**
 ## Proses Booting
 
 Proses booting adalah proses awal saat sebuah komputer atau perangkat sistem dimulai dan memuat sistem operasi serta perangkat lunak yang diperlukan untuk menjalankan perangkat tersebut. Berikut adalah langkah-langkah umum dalam proses booting sebuah komputer:
@@ -31,6 +56,9 @@ Setelah proses init selesai, sistem operasi memulai menjalankan berbagai proses 
 
 8. Prompt Login atau GUI: 
 Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks atau antarmuka grafis (GUI) jika diaktifkan, dan memulai sesi dengan masuk ke dalam sistem.
+
+### 2. Bagaimana cara install debian 12 di virtual machine
+**Jawab:**
 ## Installation
 1. Masuk ke link downloaad virtualbox dan klik download
 ![App Screenshot](img/install-vm/1.jpeg)
@@ -41,7 +69,7 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 3. Buka **VirtualBox** anda, dan klik **yes**
 ![App Screenshot](img/install-vm/3.jpeg)
 
-4. klik **Next**
+4. Klik **Next**
 ![App Screenshot](img/install-vm/4.jpeg)
 
 5. Lanjut Klik **Instal** 
@@ -71,7 +99,7 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 14. Pilih English lalu klik **continue**
 ![App Screenshot](img/install-deb/a.png)
 
-15. pilih **other**
+15. Pilih **other**
 ![App Screenshot](img/install-deb/b.png)
 
 16. Pilih **Asia**
@@ -116,10 +144,10 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 29. Pilih sesuai gambar dibawah
 ![App Screenshot](img/install-deb/14.png)
 
-30. pilih option **yes**, lalu kilik **continue**
+30. Pilih option **yes**, lalu kilik **continue**
 ![App Screenshot](img/install-deb/15.png)
 
-31.pilih sesuai gambar dibawah
+31. Pilih sesuai gambar dibawah
 ![App Screenshot](img/install-deb/16.png)
 
 32. Pilih **swao areas**, setelah itu klik **continue**
@@ -177,11 +205,13 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 ![App Screenshot](img/install-deb/54.png)
 
 
-## Link Download
+## Referensi
 
-[Link download debian 12](https://www.debian.org/download)
+- [https://www.debian.org/download](https://www.debian.org/download)
 
-[Link download virtualbox](https://www.virtualbox.org/wiki/Downloads)
+- [https://www.virtualbox.org/wiki](https://www.virtualbox.org/wiki)
 
-[Link download VMware fusion](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
+- [https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
+
+- [https://www.youtube.com/watch?v=hoRdh96O9wM](https://www.youtube.com/watch?v=hoRdh96O9wM)
 
