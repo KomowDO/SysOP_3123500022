@@ -206,12 +206,14 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 
 
 ## Referensi
+- [Apa itu sistem operasi](https://www.techtarget.com/whatis/definition/operating-system-OS)
 
-- [https://www.debian.org/download](https://www.debian.org/download)
+- [Debian](https://id.wikipedia.org/wiki/Debian)
 
-- [https://www.virtualbox.org/wiki](https://www.virtualbox.org/wiki)
+- [Debian Download](https://www.debian.org/download)
 
-- [https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
+- [VirtualBox Wiki](https://www.virtualbox.org/wiki)
 
-- [https://www.youtube.com/watch?v=hoRdh96O9wM](https://www.youtube.com/watch?v=hoRdh96O9wM)
+- [VMware Fusion Download](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
 
+- [Video Tutorial](https://www.youtube.com/watch?v=hoRdh96O9wM)
