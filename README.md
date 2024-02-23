@@ -65,9 +65,6 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 11. Selanjutnya atur Djsk Size menjadi **25GB**, dan klik **next**
 ![App Screenshot](img/install-vm/12.jpeg)
 
-12.
-![App Screenshot](img/install-vm/13.jpeg)
-
 13. Klik **FInish**
 ![App Screenshot](img/install-vm/14.jpeg)
 
