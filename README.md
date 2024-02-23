@@ -17,7 +17,7 @@
 </div>
 
 ## Daftar Isi
-1. [Pendahuluan](#about-debian-12)
+1. [Pendahuluan](#about-os-debian-12)
 1. [Soal 1](#1-sebutkan-proses-booting)
 2. [Soal 2](#2-bagaimana-cara-install-debian-12-di-virtual-machine)
 3. [Referensi](#referensi)
