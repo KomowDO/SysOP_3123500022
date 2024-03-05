@@ -4,7 +4,7 @@
 </div>
 <br />
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
+  <assets/img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
   <h3 style="text-align: center;">Disusun Oleh : </h3>
   <p style="text-align: center;">
     <strong>Mochammad Fahril Rizal (3123500013)</strong><br>
@@ -61,148 +61,148 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 **Jawab:**
 ## Installation
 1. Masuk ke link downloaad virtualbox dan klik download
-![App Screenshot](img/install-vm/1.jpeg)
+![App Screenshot](assets/img/install-vm/1.jpeg)
 
 2. Pilih sesuai **Sistem Oprasi Device** anda,
-![App Screenshot](img/install-vm/2.jpeg)
+![App Screenshot](assets/img/install-vm/2.jpeg)
 
 3. Buka **VirtualBox** anda, dan klik **yes**
-![App Screenshot](img/install-vm/3.jpeg)
+![App Screenshot](assets/img/install-vm/3.jpeg)
 
 4. Klik **Next**
-![App Screenshot](img/install-vm/4.jpeg)
+![App Screenshot](assets/img/install-vm/4.jpeg)
 
 5. Lanjut Klik **Instal** 
-![App Screenshot](img/install-vm/5.jpeg)
+![App Screenshot](assets/img/install-vm/5.jpeg)
 
 6. Tunggu hingga proses selesai
-![App Screenshot](img/install-vm/6.jpeg)
+![App Screenshot](assets/img/install-vm/6.jpeg)
 
 7. Selanjutnya klik **Finish**
-![App Screenshot](img/install-vm/7.jpeg)
+![App Screenshot](assets/img/install-vm/7.jpeg)
 
 8. Anda berhasil masuk ke **VirtualBox**, klik icon + **Add** 
-![App Screenshot](img/install-vm/8.jpeg)
+![App Screenshot](assets/img/install-vm/8.jpeg)
 
 9. Isikan **Nama**, dan masukan file **iso**
-![App Screenshot](img/install-vm/10.jpeg)
+![App Screenshot](assets/img/install-vm/10.jpeg)
 
 10. Atur Base Memory menjadi **4096mb**, dan processor menjadi **2 CPU**, klik **next**
-![App Screenshot](img/install-vm/11.1.jpeg)
+![App Screenshot](assets/img/install-vm/11.1.jpeg)
 
 11. Selanjutnya atur Djsk Size menjadi **25GB**, dan klik **next**
-![App Screenshot](img/install-vm/12.jpeg)
+![App Screenshot](assets/img/install-vm/12.jpeg)
 
 13. Klik **FInish**
-![App Screenshot](img/install-vm/14.jpeg)
+![App Screenshot](assets/img/install-vm/14.jpeg)
 
 14. Pilih English lalu klik **continue**
-![App Screenshot](img/install-deb/a.png)
+![App Screenshot](assets/img/install-deb/a.png)
 
 15. Pilih **other**
-![App Screenshot](img/install-deb/b.png)
+![App Screenshot](assets/img/install-deb/b.png)
 
 16. Pilih **Asia**
-![App Screenshot](img/install-deb/c.png)
+![App Screenshot](assets/img/install-deb/c.png)
 
 17. Pilih **Indonesia**
-![App Screenshot](img/install-deb/d.png)
+![App Screenshot](assets/img/install-deb/d.png)
 
 18. Pilih **United States**
-![App Screenshot](img/install-deb/e.png)
+![App Screenshot](assets/img/install-deb/e.png)
 
 19. Pilih **American English**
-![App Screenshot](img/install-deb/f.png)
+![App Screenshot](assets/img/install-deb/f.png)
 
 20. Tunggu hingga proses selesai
-![App Screenshot](img/install-deb/g.png)
+![App Screenshot](assets/img/install-deb/g.png)
 
 21. Tuliskan **Hostname** anda
-![App Screenshot](img/install-deb/h.png)
+![App Screenshot](assets/img/install-deb/h.png)
 
 22. klik **continue**
-![App Screenshot](img/install-deb/i.png)
+![App Screenshot](assets/img/install-deb/i.png)
 
 23. Buat **Password** anda, setelah itu klik **continue**
-![App Screenshot](img/install-deb/j.png)
+![App Screenshot](assets/img/install-deb/j.png)
 
 24. Tulis **Nama Lengkap** anda
-![App Screenshot](img/install-deb/k.png)
+![App Screenshot](assets/img/install-deb/k.png)
 
 25. Tuliskan **Username** untuk **account** anda
-![App Screenshot](img/install-deb/l.png)
+![App Screenshot](assets/img/install-deb/l.png)
 
 26. Tulis **root password lalu** tekan **continue**
-![App Screenshot](img/install-deb/9.png)
+![App Screenshot](assets/img/install-deb/9.png)
 
 27. Pilih sesuai **zona waktu** anda
-![App Screenshot](img/install-deb/n.png)
+![App Screenshot](assets/img/install-deb/n.png)
 
 28. Pada **Particion method** pilih **manual**
-![App Screenshot](img/install-deb/12.png)
+![App Screenshot](assets/img/install-deb/12.png)
 
 29. Pilih sesuai gambar dibawah
-![App Screenshot](img/install-deb/14.png)
+![App Screenshot](assets/img/install-deb/14.png)
 
 30. Pilih option **yes**, lalu kilik **continue**
-![App Screenshot](img/install-deb/15.png)
+![App Screenshot](assets/img/install-deb/15.png)
 
 31. Pilih sesuai gambar dibawah
-![App Screenshot](img/install-deb/16.png)
+![App Screenshot](assets/img/install-deb/16.png)
 
 32. Pilih **swao areas**, setelah itu klik **continue**
-![App Screenshot](img/install-deb/37.png)
+![App Screenshot](assets/img/install-deb/37.png)
 
 33. Pilih opsi **Done setting up the partition**
-![App Screenshot](img/install-deb/38.png)
+![App Screenshot](assets/img/install-deb/38.png)
 
 34. Pilih **Finish**
-![App Screenshot](img/install-deb/39.png)
+![App Screenshot](assets/img/install-deb/39.png)
 
 35. Pilih **yes**,lalu klik **continue**
-![App Screenshot](img/install-deb/40.png)
+![App Screenshot](assets/img/install-deb/40.png)
 
 36. Tunggu hingga proses selesai
-![App Screenshot](img/install-deb/41.png)
+![App Screenshot](assets/img/install-deb/41.png)
 
 37. Pilih **no**
-![App Screenshot](img/install-deb/42.png)
+![App Screenshot](assets/img/install-deb/42.png)
 
 38. Pilih option **Indonesia**, lalu klik **continue**
-![App Screenshot](img/install-deb/43.png)
+![App Screenshot](assets/img/install-deb/43.png)
 
 39. Pilih **kebo.pens.ac.id**
-![App Screenshot](img/install-deb/44.png)
+![App Screenshot](assets/img/install-deb/44.png)
 
 40. Klik **continue**
-![App Screenshot](img/install-deb/45.png)
+![App Screenshot](assets/img/install-deb/45.png)
 
 41. Tunggu hingga proses selesai
-![App Screenshot](img/install-deb/46.png)
+![App Screenshot](assets/img/install-deb/46.png)
 
 42. Pilih option **No**
-![App Screenshot](img/install-deb/47.png)
+![App Screenshot](assets/img/install-deb/47.png)
 
 43. Tunggu hingga proses selesai
-![App Screenshot](img/install-deb/48.png)
+![App Screenshot](assets/img/install-deb/48.png)
 
 44. pilih option sesuai dengan gambar dibawah ini
-![App Screenshot](img/install-deb/49.png)
+![App Screenshot](assets/img/install-deb/49.png)
 
 45. Tunggu hingga proses selesai
-![App Screenshot](img/install-deb/50.png)
+![App Screenshot](assets/img/install-deb/50.png)
 
 46. Pilih option **yes**, lalu klik **continue**
-![App Screenshot](img/install-deb/51.png)
+![App Screenshot](assets/img/install-deb/51.png)
 
 47. Pilih opsi **/dev/sda (ata-VBOX_VBf5fb021a-7667d996)**
-![App Screenshot](img/install-deb/52.png)
+![App Screenshot](assets/img/install-deb/52.png)
 
 48. Klik **continue**
-![App Screenshot](img/install-deb/53.png)
+![App Screenshot](assets/img/install-deb/53.png)
 
 49. Setelah selesai maka tampilan anda akan seperti dibawah ini
-![App Screenshot](img/install-deb/54.png)
+![App Screenshot](assets/img/install-deb/54.png)
 
 
 ## Referensi
@@ -216,7 +216,4 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 
 - [VMware Fusion Download](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
 
-- [Video Tutorial](https://www.youtube.com/watch?v=hoRdh96O9wM)"# DownloadDebian-12" 
-"# DownloadDebian-12" 
-"# DownloadDebian-12" 
-"# SysAdmin_3123500022" 
+- [Video Tutorial](https://www.youtube.com/watch?v=hoRdh96O9wM)

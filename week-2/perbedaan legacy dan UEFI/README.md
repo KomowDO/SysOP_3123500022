@@ -46,7 +46,7 @@ Dengan mode boot UEFI, Anda dimungkinkan melakukan pengontrolan antarmuka menggu
 **Jawab:**
 Perbedaan mendasar dari kedua proses boot ini dapat dilihat dari pemahaman prosesnya. UEFI adalah proses booting di komputer modern yang memberikan kemampuan fitur tingkat lanjut daripada BIOS. Legacy Boot adalah proses boot di komputer menggunakan firmware BIOS atau mode boot lama.
 
-![Tabel](img/Tabel.jpeg)
+![Tabel](assets/img/Tabel.jpeg)
 
 # Penutup
 
