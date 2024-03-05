@@ -98,6 +98,7 @@ RAM berfungsi sebagai tempat penyimpanan data sementara dan hanya bekerja saat p
     Jenis RAM yang dapat menyimpan data di dalamnya tanpa harus ada penyegaran atau refresh dari CPU. Jenis RAM ini memiliki proses kerja yang lebih cepat dari DRAM dan SDRAM. Memiliki desain cluster enam transistor yang berguna untuk menyimpan setiap bit informasi. Desain inilah yang membuat SRAM lebih mahal dan lebih cepat. Ya, secara fisik chip, biaya pemanufakturan chip pun kira-kira 30 kali lebih besar dari DRAM. Namun sayangnya, SRAM memiliki kekurangan yaitu biaya produksi yang malah. Hal ini membuat persediaannya hanya dalam kapasitas kecil dan dipergunakan untuk bagian yang benar-benar penting saja.
 
 6. Extended Data Out RAM (EDO RAM)
+
     ![EDORAM](assets/img/edoram.jpeg)
 
     Jenis RAM yang digunakan pada perangkat dengan OS Pentium dan cocok dipasang pada komputer dengan bus mencapai 66 MHz. Jenis memori ini dapat melakukan proses penyimpanan dan mengambil data dalam waktu bersamaan. Jenis memori ini banyak digunakan untuk menggantikan primary memori yang ada pada komputer terdahulu yakni FPM RAM. Karena bisa menyimpan dan membaca secara bersamaan, maka kecepatan baca tulis pada EDO RAM bisa lebih cepat juga.
@@ -109,6 +110,7 @@ RAM berfungsi sebagai tempat penyimpanan data sementara dan hanya bekerja saat p
     Jenis memori komputer dengan akses acak yang biasanya digunakan untuk menyimpan konfigurasi yang dilakukan oleh firmware seperti EFI, BIOS, atau firmware-firmware lainnya pada perangkat embedded misalnya router. Pada umumnya NV RAM dirancang dengan manufaktur CMOS agar daya yang dibutuhkan juga kecil. Untuk menghidupkannya agar data yang disimpan tidak hilang, maka NV RAM menggunakan baterai Litium dengan CR-2032. Data yang tersimpan pada memori ini pun tidak akan hilang walaupun daya dimatikan.
 
 8. First Page Mode RAM (FPM DRAM)
+
     ![FPMDRAM](assets/img/fpmram.jpeg)
 
     Jenis RAM ini merupakan bentuk asli atau bentuk awal dari DRAM. Laju transfer maksimum untuk cache L2 mendekati 176 MB per detik. FPM bekerja pada rentang frekuensi 16 MHz hingga 66 MHz dengan akses waktu hingga 50ns.
@@ -120,16 +122,19 @@ RAM berfungsi sebagai tempat penyimpanan data sementara dan hanya bekerja saat p
     Jenis memori berkapasitas rendah yang digunakan pada perangkat elektronika seperti TV, VCR, hingga ponsel lama. Momori ini dipasang pada perangkat yang memerlukan refresh dengan daya yang kecil.
 
 10. Small Outline Dual in-line Memory Module (SO-DIMM)
+
     ![SO-DIMM](assets/img/sodimm.webp)
 
     Jenis memori yang digunakan pada perangkat notebook. Bentuk fisiknya cukup ringkas, kira-kira setengah dari besaran DDR RAM sehingga lebih menghemat ruang. Jenis memori ini biasanya mengikuti perkembangan RAM untuk komputer desktop.
 
 11. Double Date Rate SDRAM (DDR SDRAM)
+
     ![DDRSDRAM](assets/img/ddrsdram.webp)
 
     Jenis RAM ini menjadi salah satu yang memiliki kecepatan sangat tinggi diantara jenis-jenis RAM. Tak heran, RAM ini digunakan diberbagai perangkat saat ini. RAM ini mampu menjalankan dua instruksi sekaligus dalam satuan waktu yang sama. Memori ini memiliki 184 pin. RAM jenis ini juga mengonsumsi daya listrik yang lebih rendah. Jenis-jenis RAM berikutnya seperti DDR2 RAM hingga DDR3 RAM merupakan pengembangan dari DDR SDRAM. Kedua jenis RAM ini digunakan dibanyak komputer saat ini. Karena lebih menghemat daya dan lebih optimal dengan kecepatan tinggi. Untuk kapasitas memori jenis ini pun cukup besar hingga 4 GB per chipnya.
 
 12. Video Graphic RAM (VGRAM)
+
     ![VGRAM](assets/img/vgram.webp)
 
     VGRAM biasanya digunakan untuk menyimpan kandungan pixel bagi sebuah paparan grafik. Penggunaan chip ini akan memberikan performa video yang baik dan mengurangi tekanan pada CPU.
@@ -185,12 +190,14 @@ komputer.
 menggunakan hardware yang terpasang.
 
 ## 5.CMOS (Complementary Metal Oxide Semiconductor)
-![CMOS](assets/img/bios.jpeg)
+
+![CMOS](assets/img/cmos.jpeg)
 
 CMOS adalah baterai kecil yang terdapat di motherboard setiap komputer. Baterai ini memberikan daya pada chip CMOS. Chip CMOS menyimpan informasi BIOS dan pengaturan komputer, bahkan saat komputer dimatikan. Baterai CMOS memungkinkan pengguna untuk menghindari adanya pengaturan ulang pada konfigurasi BIOS, seperti urutan boot, pengaturan tanggal, dan waktu, setiap kali komputer dihidupkan kembali.
 
 ## 6. I/O Port
-![CMOS](assets/img/bios.jpeg)
+
+![CMOS](assets/img/ioport.jpeg)
 
 Input Output Port memiliki pengertian sebagai jalur yang menghubungkan perangkat eksternal dengan perangkat komputer atau elektronik. 
 Port ini berguna sebagai pintu gerbang yang memungkinkan transfer data masuk (input) dan keluar (output) dari dan ke perangkat tersebut.
@@ -203,12 +210,42 @@ Dengan adanya Input Output Port, perangkat ini dapat berbagi data dan sumber day
 4. Kontrol dan Pengaturan -> Input Output Port juga berfungsi untuk mengontrol dan mengatur perangkat eksternal. Sebagai contoh, kita dapat menggunakan Input Output Port untuk mengendalikan volume speaker atau mengatur kecerahan layar monitor.
 
 ### Jenis I/O Port
-1. USB (Universal Serial Bus) -> USB adalah salah satu Input Output Port paling umum dan serbaguna. Dengan USB, kita dapat menghubungkan berbagai perangkat seperti keyboard, mouse, printer, ponsel, dan perangkat penyimpanan eksternal.
-2. HDMI (High Definition Multimedia Interface) -> Port HDMI digunakan untuk mentransfer data audio dan video berkualitas tinggi dari perangkat seperti laptop, konsol game, atau DVD player ke monitor atau TV.
-3. Ethernet -> Port Ethernet digunakan untuk menghubungkan perangkat dengan jaringan lokal atau internet, sehingga memungkinkan akses internet dan berbagi data antar perangkat.
-4. VGA (Video Graphics Array) -> Port VGA digunakan untuk menghubungkan monitor dengan perangkat komputer, meskipun sekarang telah digantikan oleh teknologi yang lebih canggih seperti HDMI dan DisplayPort.
-5. Audio Jack -> Port ini digunakan untuk menghubungkan speaker, headphone, atau mikrofon dengan perangkat audio seperti laptop atau smartphone.
-6. Thunderbolt -> Thunderbolt adalah Input Output Port yang serupa dengan USB dan HDMI, tetapi memiliki kecepatan transfer data yang lebih tinggi dan mendukung penghubung daisy-chain (menghubungkan beberapa perangkat sekaligus).
+
+1. USB (Universal Serial Bus) 
+
+![alt text](assets/img/usb.jpeg)
+
+-> USB adalah salah satu Input Output Port paling umum dan serbaguna. Dengan USB, kita dapat menghubungkan berbagai perangkat seperti keyboard, mouse, printer, ponsel, dan perangkat penyimpanan eksternal.
+
+2. HDMI (High Definition Multimedia Interface) 
+
+![alt text](assets/img/hdmi.jpeg)
+
+-> Port HDMI digunakan untuk mentransfer data audio dan video berkualitas tinggi dari perangkat seperti laptop, konsol game, atau DVD player ke monitor atau TV.
+
+3. Ethernet 
+
+![alt text](assets/img/lan.jpeg)
+
+-> Port Ethernet digunakan untuk menghubungkan perangkat dengan jaringan lokal atau internet, sehingga memungkinkan akses internet dan berbagi data antar perangkat.
+
+4. VGA (Video Graphics Array) 
+
+![alt text](assets/img/vga.jpeg)
+
+-> Port VGA digunakan untuk menghubungkan monitor dengan perangkat komputer, meskipun sekarang telah digantikan oleh teknologi yang lebih canggih seperti HDMI dan DisplayPort.
+
+5. Audio Jack 
+
+![alt text](assets/img/jackaudio.jpeg)
+
+-> Port ini digunakan untuk menghubungkan speaker, headphone, atau mikrofon dengan perangkat audio seperti laptop atau smartphone.
+
+6. Thunderbolt 
+
+![alt text](assets/img/thunderbolt.webp)
+
+-> Thunderbolt adalah Input Output Port yang serupa dengan USB dan HDMI, tetapi memiliki kecepatan transfer data yang lebih tinggi dan mendukung penghubung daisy-chain (menghubungkan beberapa perangkat sekaligus).
 
 # Referensi
 - [Apa itu Motherboard](https://en.wikipedia.org/wiki/Motherboard)

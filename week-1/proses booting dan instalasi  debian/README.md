@@ -4,7 +4,7 @@
 </div>
 <br />
 <div align="center">
-  <assets/img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
+  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="Logo PENS">
   <h3 style="text-align: center;">Disusun Oleh : </h3>
   <p style="text-align: center;">
     <strong>Mochammad Fahril Rizal (3123500013)</strong><br>
@@ -37,25 +37,64 @@ Proses booting adalah proses awal saat sebuah komputer atau perangkat sistem dim
 Komputer dinyalakan atau direstart.
 
 2. POST (Power-On Self-Test): 
+
+![App Screenshot](assets/img/proses-booting/1a.jpeg)
+
 Pada tahap ini, BIOS (Basic Input/Output System) atau UEFI melakukan beberapa pemeriksaan untuk memastikan bahwa perangkat keras dasar berfungsi dengan baik. Ini termasuk menguji memori, menguji perangkat keras seperti drive disk, keyboard, dan mouse, serta mengecek keberadaan dan keutuhan BIOS atau UEFI itu sendiri.
 
 3. Inisialisasi Perangkat Keras: 
+
+![App Screenshot](assets/img/proses-booting/2b.jpeg)
+
 Setelah melewati POST dengan berhasil, BIOS atau UEFI mulai menginisialisasi perangkat keras seperti kartu grafis, disk drive, dan perangkat lainnya. Proses ini melibatkan pengenalan perangkat keras yang terpasang dan menyediakannya untuk sistem operasi untuk digunakan.
 
 4. Boot Loader: 
+
+![App Screenshot](assets/img/proses-booting/boot.png)
+
 Setelah inisialisasi perangkat keras selesai, BIOS atau UEFI mencari boot loader di media penyimpanan yang telah ditentukan, biasanya hard drive atau SSD. Jika ada beberapa sistem operasi yang terinstal, pemuat boot, seperti GRUB (Grand Unified Bootloader) untuk sistem Linux, memungkinkan pengguna untuk memilih sistem operasi mana yang akan dimuat. Selanjutnya, loader boot memuat kernel sistem operasi yang dipilih ke dalam memori.
 
 5. Kernel Pemuatan: 
+
+![App Screenshot](assets/img/proses-booting/kernel.png)
+
 Kernel sistem operasi, seperti kernel Linux, dimuat ke dalam memori setelah boot loader memilih sistem operasi yang akan dimuat. Manajemen perangkat keras, alokasi sumber daya, dan menjalankan berbagai tugas yang diperlukan untuk menginisialisasi sistem adalah semua tanggung jawab kernel.
 
-6. Process Init: 
+6. Inisialisasi Sistem:
+
+![App Screenshot](assets/img/proses-booting/inisialsisasi.png)
+
+Kernel menginisialisasi komponen sistem yang diperlukan, seperti driver, manajemen memori, sistem file, dan antarmuka jaringan. Ini mengatur lingkungan yang diperlukan agar sistem operasi berfungsi dengan benar. File konfigurasi dan layanan sistem dimuat, dan sistem bertransisi dari keadaan dasar ke keadaan berfungsi penuh.
+
+7. Inisialisasi Mode Pengguna:
+
+![alt text](7.png)
+
+Setelah kernel menyelesaikan inisialisasinya, kernel memulai inisialisasi mode pengguna. Pengaturan khusus pengguna, perintah login, dan aplikasi/layanan pengguna dimuat. Antarmuka pengguna grafis (GUI) atau antarmuka baris perintah (CLI) disajikan kepada pengguna, memungkinkan interaksi dengan sistem operasi.
+
+8. Sistem operasi:
+
+![alt text](assets/img/proses-booting/beranada.png)
+
+Setelah proses booting selesai maka sistem operasi siap digunakan. Pengguna kini dapat menjalankan aplikasi, mengakses file, menjelajah internet, dan melakukan berbagai tugas. Sistem operasi mengelola sumber daya sistem, memfasilitasi multitasking, dan menyediakan antarmuka untuk interaksi pengguna.
+
+<!-- 6. Process Init: 
+
+![App Screenshot](assets/img/proses-booting/1a.jpeg)
+
 Proses inicialisasi diluncurkan setelah kernel dimuat. Proses init, yang berjalan setelah kernel, bertanggung jawab untuk menginisialisasi sistem dan menjalankan proses yang diperlukan.
 
 7. Ruang Pengguna: 
+
+![App Screenshot](assets/img/proses-booting/1a.jpeg)
+
 Setelah proses init selesai, sistem operasi memulai menjalankan berbagai proses di ruang pengguna. Ini termasuk layanan sistem, program pengguna, dan, jika diperlukan, antarmuka grafis.
 
 8. Prompt Login atau GUI: 
-Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks atau antarmuka grafis (GUI) jika diaktifkan, dan memulai sesi dengan masuk ke dalam sistem.
+
+![App Screenshot](assets/img/proses-booting/1a.jpeg)
+
+Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks atau antarmuka grafis (GUI) jika diaktifkan, dan memulai sesi dengan masuk ke dalam sistem. -->
 
 ### 2. Bagaimana cara install debian 12 di virtual machine
 **Jawab:**
@@ -206,7 +245,9 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 
 
 ## Referensi
-- [Apa itu sistem operasi](https://www.techtarget.com/whatis/definition/operating-system-OS)
+- [Apa itu sistem operasi](https://www.techtarget.com/whatis/definition/operating-system-OS) 
+
+- [Proses Booting Pada Sistem Operasi](https://www.prepbytes.com/blog/os-interview-question/booting-process-in-operating-system/)
 
 - [Debian](https://id.wikipedia.org/wiki/Debian)
 
@@ -217,3 +258,8 @@ Pada akhirnya, pengguna dapat melihat prompt login untuk sistem berbasis teks at
 - [VMware Fusion Download](https://customerconnect.vmware.com/downloads/details?downloadGroup=FUS-1350&productId=1375&rPId=110933)
 
 - [Video Tutorial](https://www.youtube.com/watch?v=hoRdh96O9wM)
+
+"# DownloadDebian-12" 
+"# DownloadDebian-12" 
+"# DownloadDebian-12" 
+"# SysAdmin_3123500022" 
