@@ -205,6 +205,9 @@ $ yes &
 
 
 ## Latihan
+1. Masuk ke tty2 dengan Ctrl+Alt+F2. Ketik ps –au dan tekan Enter. Kemudian
+perhatikan keluaran sebagai berikut :
+a. Sebutkan nama-nama proses yang bukan root
 
 
 
