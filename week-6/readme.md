@@ -189,11 +189,17 @@ $ yes &
 
 
 ![ss](img/11.png)
+
 ![ss](img/22.png)
+
 ![ss](img/33.png)
+
 ![ss](img/44.png)
+
 ![ss](img/55.png)
+
 ![ss](img/66.1.png)
+
 ![ss](img/66.2.png)
 
 
