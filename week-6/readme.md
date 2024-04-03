@@ -15,10 +15,10 @@
 
 ## Daftar Isi
 1. [Dasar teori](#dasar-teori)
-2. [Tugas](#tugas)
-    - [Tugas Pendahuluan](#tugas-pendahuluan)
-    - [Percobaan](#percobaan)
-3. [Kesimpulan](#kesimpulan)
+2. [Percobaan]
+   -[Percobaan 5](#Percobaan-5)
+   -[Percobaan 6](#Percobaan-7)
+4. [Kesimpulan](#kesimpulan)
 
 # Proses dan Manajemen Proses
 
@@ -127,15 +127,25 @@ $ yes &
 
 
 ![ss](img/1.png)
+
 ![ss](img/2.png)
+
 ![ss](img/3.png)
+
 ![ss](img/5.png)
+
 ![ss](img/4.png)
+
 ![ss](img/6.png)
+
 ![ss](img/3.1.png)
+
 ![ss](img/3.2.png)
+
 ![ss](img/3.3.png)
+
 ![ss](img/7.png)
+
 ![ss](img/8.png)
 
 
