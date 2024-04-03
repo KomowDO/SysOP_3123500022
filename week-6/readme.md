@@ -17,6 +17,7 @@
 1. [Dasar teori](#dasar-teori)
 2. [Percobaan]
    -[Percobaan 5](#Percobaan-5)
+   
    -[Percobaan 6](#Percobaan-7)
 4. [Kesimpulan](#kesimpulan)
 
@@ -96,7 +97,8 @@ Beberapa versi UNIX mempunyai utilitas sistem yang disebut top yang menyediakan 
     q – quit
 
 Utilitas untuk melakukan pengontrolan proses dapat ditemukan pada sistem UNIX adalah perintah killall. Perintah ini akan menghentikan proses sesuai PID atau job number proses.
-# Percobaan 5-Menghentikan dan memulai kembali job
+
+## Percobaan 5-Menghentikan dan memulai kembali job
 
 1. Cara lain meletakkan job pada background dengan memulai job secara normal (pada foreground), stop job dan memulai lagi pada background
 
@@ -149,7 +151,7 @@ $ yes &
 ![ss](img/8.png)
 
 
-# Percobaan 6-Percobaan dengan Penjadwalan Prioritas
+## Percobaan 6-Percobaan dengan Penjadwalan Prioritas
 1. Login sebagai root.
 
 2. Buka 3 terminal, tampilkan pada screen yang sama.
