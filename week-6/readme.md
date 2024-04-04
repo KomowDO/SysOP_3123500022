@@ -220,6 +220,7 @@ a. Sebutkan nama-nama proses yang bukan root
 ![ss](img/a.png)
 
 b. Tulis PID dan COMMAND dari proses yang paling banyak menggunakan CPU time
+
 ![ss](img/u2.png)
 
 
@@ -236,9 +237,11 @@ d. Sebutkan beberapa proses daemon
 
 
 e. Pada prompt login lakukan hal-hal sebagai berikut : $ csh $ who $ bash $ ls $ sh $ ps
+
 ![ss](img/u2.2.png)
 
 f. Sebutkan PID yang paling besar dan kemudian buat urut-urutan proses sampai ke PPID = 1.
+
 ![ss](img/u2.3.png)
 
 
