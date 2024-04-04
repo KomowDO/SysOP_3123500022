@@ -244,23 +244,37 @@ f. Sebutkan PID yang paling besar dan kemudian buat urut-urutan proses sampai ke
 
 2.  Cobalah format tampilan ps dengan opsi berikut dan perhatikan hasil tampilannya :
 a. -f daftar penuh
+
 ![ss](img/f.png)
+
 b. -j format job
+
 ![ss](img/j1.png)
+
 c.  j format job control
+
 ![ss](img/j2.png)
+
 d.  l daftar memanjang
+
 ![ss](img/l.png)
+
 e.  s format sinyal
+
 ![ss](img/s.png)
+
 f.  v format virtual memory
+
 ![ss](img/v.png)
+
 g.  X format register i386
+
 ![ss](img/x1.png)
+
 ![ss](img/x2.png)
 
 
-3. Lakukan urutan pekerjaan berikut :
+4. Lakukan urutan pekerjaan berikut :
 a. Gunakan perintah find ke seluruh direktory pada sistem, belokkan output sehingga daftar direktori dialihkan ke file directories.txt dan daftar pesan error dialihkan ke file errors.txt
 ![ss](img/t.png)
 
