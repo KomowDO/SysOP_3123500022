@@ -281,15 +281,19 @@ a. Gunakan perintah find ke seluruh direktory pada sistem, belokkan output sehin
 
 
 b. Gunakan perintah sleep 5. Apa yang terjadi dengan perintah ini ?
+
 ![ss](img/ps.png)
 
 c. Jalankan perintah pada background menggunakan &
+
 ![ss](img/ps2.png)
 
 d. Jalankan sleep 15 pada foreground, hentikan sementara dengan Ctrl-Z dan kemudian letakkan pada background dengan bg. Ketikkan jobs. Ketikkan ps. Kembalikan job ke foreground dengan perintah fg.
+
 ![ss](img/s15.png)
 
 e. Jalankan sleep 15 pada background menggunakan & dan kemudian gunakan perintah kill untuk menghentikan proses diikuti job number.
+
 ![ss](img/s15.1.png)
 
 f. Jalankan sleep 15 pada background menggunakan & dan kemudian gunakan kill untuk menghentikan sementara proses. Gunakan bg untuk melanjutkan menjalankan proses.
