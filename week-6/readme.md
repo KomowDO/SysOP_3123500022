@@ -283,15 +283,20 @@ f. Jalankan sleep 15 pada background menggunakan & dan kemudian gunakan kill unt
 ![ss](img/s15.2.png)
 
 g. Jalankan sleep 60 pada background 5 kali dan terminasi semua pada dengan menggunakan perintah killall.
+
 ![ss](img/60.png)
 
 h. Gunakan perintah ps, w dan top untuk menunjukkan semua proses yang sedang dieksekusi.
+
 ![ss](img/pw1.png)
+
 ![ss](img/pw2.png)
 
 i. Gunakan perintah ps –aeH untuk menampilkan hierarki proses. Carilah init proses. Apakah Anda bisa identifikasi sistem daemon yang penting ? Dapatkan Anda identifikasi shell dan subprose s ?
 ![ss](img/a1.png)
+
 ![ss](img/a2.png)
+
 ![ss](img/a3.png)
 
 j. Kombinasikan ps –fae dan grep, apa yang Anda lihat ?
