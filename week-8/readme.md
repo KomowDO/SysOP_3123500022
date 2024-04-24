@@ -238,7 +238,7 @@ Variabel shell adalah variabel yang ditetapkan oleh shell, bukan oleh pengguna. 
 ![ss](img/2.16.png)
 
 
-# Bash - Loop File
+# Bash-Loop File
 Cara mengulang konten file dalam tutorial skrip Bash Shell dan contoh pemrograman.
 
 Terkadang, Anda ingin membaca konten file dengan pemrograman bash.
@@ -250,7 +250,7 @@ Ada beberapa cara yang bisa kita lakukan
   
 ![ss](img/2.17.png)
 
-# Bash - Comments
+# Bash-Comments
 Posting ini menjelaskan cara menulis komentar dalam skrip bash shell, dengan contoh yang menyertainya.
 
 (Comments) adalah pernyataan kode yang berisi teks yang dapat dibaca pengguna yang dilewati shell selama eksekusi. Setiap bahasa pemrograman menyertakan fitur komentar, memberikan deskripsi untuk baris kode atau pernyataan.
@@ -307,7 +307,7 @@ Ini berguna untuk menggabungkan lebih banyak teks yang mencakup beberapa baris, 
 #### Kesimpulan
 Singkatnya, kita telah belajar cara menambahkan komentar tunggal dan multi-baris dalam pemrograman skrip shell.
 
-# Bash - Arrays
+# Bash-Arrays
 Array dalam shell adalah variabel untuk menampung lebih dari satu nilai.
 
 Misalkan, Anda memiliki daftar angka 1 2 3.. 10 dan ingin menyimpan angka-angka ini di Shell Script
@@ -448,7 +448,7 @@ Skrip shell menyediakan #
 
 ![ss](img/3.25.png)
 
-# Bash - expansion
+# Bash-expansion
 Tutorial ini menjelaskan cara menulis skrip batch dalam skrip shell dan menjalankannya.
 
 perintah dimasukkan ke OS untuk membuat panggilan sistem dan melakukan tindakan. Perintah input pengguna di terminal untuk melakukan operasi seperti LS, CD, MKDIR dll.
@@ -467,7 +467,7 @@ Mengubah izin untuk mengeksekusi file
 
 ![ss](img/3.27.png)
 
-# Bash - Condional Expression
+# Bash-Condional Expression
 Ekspresi bersyarat dievaluasi pada waktu eksekusi skrip, berdasarkan hasil, Ini mengeksekusi blok perintah tertentu.
 
 Ada berbagai jenis ekspresi konitional di Bash
@@ -490,7 +490,7 @@ Berikut adalah opsi yang disediakan
 
 ![ss](img/3.29.png)
 
-# Bash - Case Statements
+# Bash-Case Statements
 Pernyataan kasus mirip dengan switch case dalam bahasa pemrograman lainnya.
 
 Ini digunakan untuk membandingkan input yang diberikan dengan beberapa pola, dan perintah di dalam pola yang cocok dijalankan.
@@ -509,7 +509,7 @@ Berikut ini contohnya
 
 ![ss](img/3.31.png)
 
-# Bash - Special Characters
+# Bash-Special Characters
 Karakter khusus dalam bash dievaluasi dengan arti khusus dalam penafsiran perintah. Karakter-karakter ini memiliki instruksi khusus, tentang penggunaan karakter ini memiliki arti yang berbeda pada konteks yang berbeda. Mari kita ekspos karakter khusus yang didukung dalam bash scripting
 
 #### Blankspace (" "):
@@ -668,7 +668,7 @@ Contoh
 
 Dalam contoh ini, skrip memeriksa apakah usia lebih besar dari 60, kurang dari 14, atau termasuk dalam kategori baik, dan menampilkan pesan yang sesuai.
 
-# Bash - Loops
+# Bash-Loops
 Loop digunakan untuk mengeksekusi blok kode untuk beberapa kali.
 
 Misalkan Anda ingin menjalankan perintah berulang kali atau prins loop array.for digunakan di Bash
@@ -734,7 +734,7 @@ Dalam contoh, Blok kode dijalankan selama [[ i -eq 100 ]] adalah false. Ini mena
 
 output mencetak angka dari 0 hingga 99 angka
 
-# Bash - Append String1
+# Bash-Append String1
 #### Bash Athematic expressions
 Ekspresi arthematic digunakan untuk melakukan operasi matematika
 
@@ -780,7 +780,7 @@ Misalnya, hitung rata-rata dua angka, cetak hasilnya. Di sini digunakan sintaks 
   - Periksa file atau direktori ada
 
 
-# Bash - Functions
+# Bash-Functions
 Fungsi adalah kode yang dapat digunakan kembali yang dapat dikelompokkan dalam satu nama.
 
 Mendeklarasikan fungsi Memanggil Fungsi Fungsi dengan argumen Cakupan variabel dalam Fungsi
@@ -802,7 +802,7 @@ Parameter dapat diakses menggunakan $ 1 $ 2 $ 3 .. $n
 
 ![ss](img/4.23.png)
 
-# Bash - Append String2
+# Bash-Append String2
 Dalam tutorial ini, Anda akan mempelajari berbagai metode untuk menambahkan variabel string di Bash.
 
 Ada beberapa cara untuk menambahkan satu string ke string lainnya.
@@ -895,7 +895,7 @@ Dalam tutorial ini, Anda telah belajar cara menggabungkan variabel string dalam 
 - Jika Anda memerlukan pemrosesan string yang lebih kompleks bersama penggabungan, printf direkomendasikan.
 
 
-# Bash - Operators
+# Bash-Operators
 #### Apa itu operator?
 
 Operator adalah simbol dalam pemrograman yang melakukan operasi pada operan
@@ -955,7 +955,7 @@ Operation	| Description
 -R | variable	Returns true if an variable set an value, and it is a named reference
 
 
-# Bash - Numbers Comparison
+# Bash-Numbers Comparison
 Tutorial ini menjelaskan membandingkan dua angka untuk sama atau tidak dalam pemrograman bash dan shell.
 
 Angka dapat berupa bilangan bulat atau angka mengambang.
@@ -992,7 +992,7 @@ Anda juga dapat melakukannya dengan operator ternary
 
 
 
-# Bash - Check Directory
+# Bash-Check Directory
 Dalam tutorial ini, kita akan mengeksplorasi cara menentukan apakah direktori ada dalam skrip Bash.
 
 #### Bash scripting Check if the directory exists
@@ -1047,7 +1047,7 @@ Terkadang, kami ingin memeriksa apakah file atau direktori itu ada. -e opsi meme
 ![ss](img/5.8.png)
 
 
-# Bash - File Name
+# Bash-File Name
 Dalam skrip Bash, Anda mungkin perlu mengekstrak nama file dan ekstensi dan menyimpannya ke dalam variabel. Tutorial ini menunjukkan cara mencapainya untuk file tertentu.
 
 Artikel ini mencakup
@@ -1117,7 +1117,7 @@ Output :
 Skrip ini menunjukkan beberapa pendekatan untuk menangani nama file dan ekstensi di lingkungan Bash.
 
 
-# Bash - Split String
+# Bash-Split String
 Dalam beberapa kasus, ketika bekerja dengan skrip bash, muncul kebutuhan untuk memisahkan string berdasarkan pembatas dan mengekstrak beberapa string untuk diproses lebih lanjut atau penyimpanan dalam variabel.
 
 Tutorial ini memandu Anda melalui pemisahan string dengan contoh-contoh dalam pemrograman bash shell.
@@ -1159,7 +1159,7 @@ Perluasan parameter digunakan untuk mengubah nilai variabel berdasarkan opsi yan
 Berbagai cara untuk menangani manipulasi string, memungkinkan Anda memilih metode yang sesuai dengan kebutuhan Anda.
 
 
-# Bash - String Length
+# Bash-String Length
 Panjang string ditentukan oleh jumlah karakter yang dikandungnya, dan umumnya mudah untuk memastikan panjang ini untuk teks normal.
 
 Posting ini akan mengeksplorasi berbagai metode untuk menghitung jumlah karakter dalam string dengan pengkodean UTF.
@@ -1211,7 +1211,7 @@ Posting ini telah membahas beberapa cara untuk menentukan panjang string di Bash
 
 
 
-# Bash - bashrc
+# Bash-bashrc
 File .bashrc adalah file skrip bash yang dijalankan dalam kasus berikut
 
 - Menggunakan eksekusi skrip bash
@@ -1258,7 +1258,7 @@ or execute bash again using the below command
 exec command reset the current session, and starts again.
 
 
-# Bash - Ternary Operator
+# Bash-Ternary Operator
 Pemrograman bash tidak memiliki dukungan untuk sintaks operator terner.
 
 Operator ternary ditulis dalam bahasa Java
@@ -1291,7 +1291,7 @@ Menggunakan Let kita dapat menetapkan variabel berdasarkan hasil ekspresi kondis
 ![ss](img/5.21.4.png)
 
 
-# Bash - Lowercase
+# Bash-Lowercase
 Tutorial ini menjelaskan cara mengonversi string menjadi huruf kecil dalam skrip Bash.
 
 Misalnya, jika string input adalah "Hello World Welcome," outputnya akan menjadi "hello world welcome.".
@@ -1356,7 +1356,7 @@ Di sini, ${msg,,} menggunakan opsi ,, untuk mengonversi variabel menjadi huruf k
 Perhatikan bahwa ini berfungsi di Bash versi 4.0 dan yang lebih baru.
 
 
-# Bash - Uppercase
+# Bash-Uppercase
 Tutorial ini memandu Anda melalui proses mengonversi string menjadi huruf besar dalam skrip bash dan shell.
 
 String huruf besar mengacu pada string yang berisi semua huruf dalam huruf besar.
@@ -1417,7 +1417,7 @@ Sintaks ekspansi parameter mengonversi string menjadi huruf besar. ${message^^} 
 Fitur ini tersedia di Bash versi 4.0 ke atas.
 
 
-# Bash - Substring
+# Bash-Substring
 Dalam tutorial ini, skrip Bash dirancang untuk menentukan apakah string berisi substring tertentu.
 
 Ada beberapa cara untuk melakukan pemeriksaan ini, masing-masing diuraikan di bawah ini untuk kejelasan.
@@ -1444,7 +1444,7 @@ Perintah grep digunakan untuk mencari string tertentu, disalurkan ke string utam
 Metode ini menawarkan pendekatan yang berbeda untuk memeriksa apakah string berisi substring tertentu, memberikan fleksibilitas untuk kasus penggunaan yang berbeda.
 
 
-# Bash - variable set
+# Bash-variable set
 Tutorial ini adalah tentang memeriksa variabel dalam pemrograman skrip bash shell untuk
 
 - Periksa variabel diatur atau tidak
@@ -1531,7 +1531,7 @@ Output:
 
 
 
-# Bash - Iterate Nos
+# Bash-Iterate Nos
 Tutorial ini adalah tentang beberapa cara untuk mengulangi rentang angka yang disimpan dalam variabel dan mencetaknya ke konsol.
 
 Dalam contoh ini, Hasilkan urutan rentang angka dan simpan dalam variabel.
