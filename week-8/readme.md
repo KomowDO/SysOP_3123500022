@@ -592,7 +592,7 @@ Periksa status keluar dari eksekusi perintah terakhir.
 
 #### Titik (.)
 
-# Bash - if elif else
+# Bash-if elif else
 Bash scripting menyediakan ekspresi kondisional untuk mengeksekusi kode yang berbeda berdasarkan kondisi yang ditentukan.
 
 #### Pernyataan Bersyarat Bash Shell
