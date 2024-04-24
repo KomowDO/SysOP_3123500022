@@ -105,7 +105,7 @@ File skrip
 - Hanya satu baris dalam file yang dijalankan secara berurutan
 
 
-# Bash - Variabel
+# Bash-Variabel
 Pelajari cara mendeklarasikan dan menggunakan variabel dalam skrip bash. Jenis variabel global, lokal, dan readonly, dan memahami sintaks yang tepat untuk mengakses variabel dalam skrip shell ..
 
 #### Variabel Bash Shell
