@@ -23,8 +23,8 @@
 7. [Bash - Condional Expression](#Bash-Condional-Expression).
 8. [Bash - Case Statements](#Bash-Case-Statements).
 9. [Bash - Special Characters](#Bash-Special-Characters).
-10. [Bash - if elif else](#).
-11. [Bash - Loops](#).
+10. [Bash - if elif else](#Bash-if-elif-else).
+11. [Bash - Loops](#Bash-Loops).
 12. [Bash - Append String1](#Bash-Append-String1).
 13. [Bash - Functions](#Bash-Functions).
 14. [Bash - Append String2](#Bash-Append-String2).
