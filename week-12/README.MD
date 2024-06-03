@@ -105,9 +105,10 @@ int main(int argc, char *argv[])
     // Return success
     return 0;
 }
+```
 
 ## Output : 
-
+![ss](IMG/bkn.png)
 
 
 
@@ -202,17 +203,10 @@ int main(int argc, char *argv[])
     return 0;
 
 }
+```
 
 ## Output : 
-
-
-
-
-
-
-
-
-
+![ss](IMG/ya.png)
 
 
 
@@ -221,3 +215,4 @@ int main(int argc, char *argv[])
 
 
 ## Kesimpulan
+Mutex (mutual exclusion) adalah mekanisme sinkronisasi penting dalam pemrograman multithreaded yang mencegah kondisi balapan dengan memastikan bahwa hanya satu thread dapat mengakses sumber daya bersama pada satu waktu. Ini dilakukan melalui operasi penguncian (lock) dan pembukaan kunci (unlock). Meskipun mutex menambahkan overhead performa, penggunaannya esensial untuk menjaga integritas data dan mencegah hasil yang tidak konsisten.
